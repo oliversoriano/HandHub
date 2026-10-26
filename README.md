@@ -4,7 +4,6 @@
 
 Este repositório é o **canal de distribuição** do aplicativo: aqui ficam o instalador e o arquivo que o HandHub consulta para saber se há uma nova versão.
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-1.3.1-4f46e5)](versao.json)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows-0078D6?logo=windows&logoColor=white)
 
 ## ⬇️ Download
